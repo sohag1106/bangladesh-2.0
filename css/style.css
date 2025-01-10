@@ -1,5 +1,7 @@
 
-
+html,body {
+    font-family: "Fira Sans", serif;
+}
 
 .nav-flot{
     display: flex;
@@ -20,7 +22,7 @@
 
 }
 .header.title{
-    color: #0E0E0E;
+    color: #D5D6D8;
     
 
 }
@@ -54,7 +56,44 @@ section{
     padding-top: 80px;
 }
 
+.card-flot{
+    display: flex;
+    
+}
+.card-shape{
+    border: solid;
+    margin-right: 24px;
+    padding: 24px;
+    border-radius: 16px;
+    border-color: #D5D6D8;
+    color: rgba(14, 14, 14, 0.7);
+    
+    
 
+
+}
+
+.card-2{
+    align-self: normal;
+    border: none;
+    
+    
+    
+}
+
+.card-2-btn-1{
+    padding: 11px 20px;
+    border-radius: 8px;
+    border-color: white;
+    background-color: #09A15C;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+    
+  
+
+}
 
 
 
