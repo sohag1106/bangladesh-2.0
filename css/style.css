@@ -1,7 +1,11 @@
+
+
+
 .nav-flot{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 .btn-sign{
     padding: 15px 30px;
@@ -15,9 +19,40 @@
    
 
 }
+.header.title{
+    color: #0E0E0E;
+    
 
+}
 
+.btn-ENB{
+    padding: 16px 34px;
+    background-color: #006A50;
+    color: #FFFFFF;
+    border-radius: 8px;
+    
+    
 
+}
+.greenback{
+    background-color:#C6E4D6
+     ;
+     border-radius: 24px;
+}
+
+.banner-1{
+    padding-left: 100px;
+
+}
+.banner-2{
+    padding-right: 100px;
+
+}
+section{
+    margin: 0px 100px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
 
 
 
