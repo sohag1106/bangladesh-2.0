@@ -197,9 +197,119 @@ section{
 
 }
 
+.flex-donate{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.flex-box-donate{
+  border: 1px solid none;
+  background-color: white;
+  border-radius: 16px;
+  width: 252px;
+  height: 128px;
+  text-align: center;
+  font-size: bold;
+  justify-content: center;
+  align-content: center;
+  
+  margin-right: 24px;
+  
+  
 
 
 
+}
+
+.input-shape{
+  width: 1032px;
+  height: 64px;
+}
+
+
+.done-now-btn{
+  
+}
+
+.center-justfy2{
+  justify-content: center;
+  align-items: center;
+
+
+}
+.cointainer{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type="text"] {
+  width: 200px;
+  padding: 10px;
+  font-size: 16px;
+  text-align: center;
+}
+.done-now-btn-1{
+  background-color: #09A15C;
+  padding: 17px 34px;
+  border-radius: 8px;
+  border: 1px solid #c2c2c2 ;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.subscribe-news{
+  background-color: #C6E4D6;
+  padding: 80px 100px;
+  border-radius: 24px;
+
+}
+
+.cointainer1{
+  display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    justify-content: center; }
+
+    .sub-btn{
+      align-self: normal;
+      background-color: #09A15C;
+      border: 1px solid #c2c2c2 ;
+      border-top-right-radius: 10px;
+      border-bottom-right-radius: 10px;
+
+    }
+    .news-input{
+      border: 1px solid #c2c2c2 ;
+     width: auto;
+      text-align: left;
+      border-top-left-radius: 10px;
+      border-bottom-left-radius: 10px;
+    }
+    
+    .news-input input[type="text"]{
+      text-align: left;
+
+    }
+
+    .footer-style{
+      display: flex;
+      align-items: center;
+    justify-content: center;
+    
+
+    }
+    hr{
+      border-top: 1px solid rgba(14, 14, 14, 0.1);
+    }
+
+    .margine-11{
+      margin-right: 10px;
+    }
 
 
 
