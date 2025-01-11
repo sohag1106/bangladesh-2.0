@@ -311,6 +311,13 @@ input[type="text"] {
       margin-right: 10px;
     }
 
+    .btn-style{
+
+    }
+.flex-box-donate:hover{
+  background-color: #09A15C;
+
+}
 
 
 .fira-sans-thin {
