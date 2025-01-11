@@ -319,6 +319,20 @@ input[type="text"] {
 
 }
 
+.sub-btn:hover{
+  background-color: #FFFFFF;
+  color: black;
+}
+
+
+
+.btn-style:hover{
+  background-color: #FFFFFF;
+  color: black;
+  border: 1px solid #000000 ;
+}
+
+
 
 .fira-sans-thin {
     font-family: "Fira Sans", serif;
