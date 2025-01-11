@@ -119,9 +119,48 @@ section{
     padding: 0px;
 }
 
+.float-opinion{
+  display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.question-shape{
+  border: 1px solid #c2c2c2 ;
+  background-color: #C6E4D6;
+  font-weight: bold;
+  
+  
+  padding: 24px;
+
+}
+
+.yes-btn{
+  border: 1px solid #c2c2c2 ;
+  padding: 24px;
+  background-color: #ffffff;
+
+}
+.p-opinio{
+  border: 1px solid #c2c2c2 ;
+  padding: 24px;
+  background-color: #ffffff;
+  font-weight: bold;
+
+}
+
+.yes-btn-mod{
+  background-color: #C6E4D6;
+  border-radius: 4px ;
+  border: 1px solid black;
+  padding: 14px 10px;
+  width: 200px;
+  height: 92px;
+  font-weight: bold;
 
 
-
+}
 
 
 
